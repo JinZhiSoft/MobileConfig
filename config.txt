@@ -2,7 +2,7 @@
     "githubLbConfig": [
         {
             "githubLbIp": "120.27.250.57",
-            "githubLbPort": 1981
+            "githubLbPort": 1107
         }
     ],
     "size": 1
